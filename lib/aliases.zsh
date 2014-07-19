@@ -33,3 +33,14 @@ alias la='ls -lAh'
 
 alias afind='ack-grep -il'
 
+# editors
+alias stt='subl'
+alias edit='subl'
+alias opent='open -a "Sublime Text"'
+alias openr='open -a "RubyMine"'
+alias openx='open -a "XCode"'
+alias opena='open -a "AppCode"'
+alias openc='open_text_in_chrome'
+alias zcheat='open http://ivan.kanis.fr/zsh.pdf'
+alias whatison80='sudo lsof -i :80'
+
