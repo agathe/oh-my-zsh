@@ -44,4 +44,6 @@ alias opena='open -a "AppCode"'
 alias openc='open_text_in_chrome'
 alias zcheat='open http://ivan.kanis.fr/zsh.pdf'
 alias whatison80='sudo lsof -i :80'
-
+alias webserver='python -m SimpleHTTPServer 8000'
+alias mongostart='mongod --config /usr/local/etc/mongod.conf'
+alias archfor='xcrun -sdk iphoneos lipo -info'
