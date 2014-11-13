@@ -46,9 +46,5 @@ alias whatison80='sudo lsof -i :80'
 alias webserver='python -m SimpleHTTPServer 8000'
 alias mongostart='mongod --config /usr/local/etc/mongod.conf'
 alias archfor='xcrun -sdk iphoneos lipo -info'
-<<<<<<< HEAD
 alias cdp='cd ~/PROJECTS'
 alias t='tmux'
-
-=======
->>>>>>> added aliases
