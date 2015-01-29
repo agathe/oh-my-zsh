@@ -48,3 +48,5 @@ alias mongostart='mongod --config /usr/local/etc/mongod.conf'
 alias archfor='xcrun -sdk iphoneos lipo -info'
 alias cdp='cd ~/PROJECTS'
 alias t='tmux'
+alias gcb='git co -b'
+
